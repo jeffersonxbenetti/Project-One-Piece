@@ -19,7 +19,7 @@ main::after {
     min-height: 100vh;
     width: 80vw;
 
-    background: linear-gradient(-233deg, #000 40%, rgba(0, 0, 0, 0) 65%) no-repeat;
+    background: linear-gradient(-233deg, #000 10%, rgba(0, 0, 0, 0) 65%) no-repeat;
 }
 
 main .personagem {
@@ -99,6 +99,7 @@ ul {
 
 .botoes .botao img {
     border-radius: 50%;
+    height: 42px;
     
 }
 

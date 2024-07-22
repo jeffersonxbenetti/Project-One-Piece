@@ -23,5 +23,5 @@
 </div>
 
 <div align="center">
-  <a href="https://jeffersonxbenetti.github.io/Projeto-One-piece/">One piece</a>
+  <a href="https://jeffersonxbenetti.github.io/Projeto-OnePiece-DevemDobro/">One piece</a>
 </div>
